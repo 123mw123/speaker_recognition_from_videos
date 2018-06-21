@@ -1,1 +1,1 @@
-# cnn_
+# speaker_recognition_from_videos
